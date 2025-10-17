@@ -1,4 +1,4 @@
-# Informe: Arquitectura del Sistema y Comunicación entre Agentes
+# Informe - Implementacion Calculadora Paradigma de Agentes - Johan Steven Galeano Gonzalez
 
 ## 1. Arquitectura General del Sistema
 
